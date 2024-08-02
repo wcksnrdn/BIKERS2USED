@@ -1,0 +1,37 @@
+C:\Users\wiwim\AppData\Local\Temporary Projects\PROJECT UTS SATRIA ARDAN\bin\Debug\PROJECT UTS SATRIA ARDAN.exe
+C:\Users\wiwim\AppData\Local\Temporary Projects\PROJECT UTS SATRIA ARDAN\bin\Debug\PROJECT UTS SATRIA ARDAN.pdb
+C:\Users\wiwim\AppData\Local\Temporary Projects\PROJECT UTS SATRIA ARDAN\bin\Debug\PROJECT UTS SATRIA ARDAN.xml
+C:\Users\wiwim\AppData\Local\Temporary Projects\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Form1.resources
+C:\Users\wiwim\AppData\Local\Temporary Projects\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Resources.resources
+C:\Users\wiwim\AppData\Local\Temporary Projects\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT UTS SATRIA ARDAN.vbproj.GenerateResource.Cache
+C:\Users\wiwim\AppData\Local\Temporary Projects\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT UTS SATRIA ARDAN.exe
+C:\Users\wiwim\AppData\Local\Temporary Projects\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT UTS SATRIA ARDAN.xml
+C:\Users\wiwim\AppData\Local\Temporary Projects\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT UTS SATRIA ARDAN.pdb
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT UTS SATRIA ARDAN.exe
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT UTS SATRIA ARDAN.xml
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT UTS SATRIA ARDAN.pdb
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\bin\Debug\PROJECT UTS SATRIA ARDAN.exe
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\bin\Debug\PROJECT UTS SATRIA ARDAN.pdb
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\bin\Debug\PROJECT UTS SATRIA ARDAN.xml
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Form1.resources
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Resources.resources
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT UTS SATRIA ARDAN.vbproj.GenerateResource.Cache
+C:\Users\wiwim\onedrive\documents\visual studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Ducati.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.BIKERS2USED.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Purchase_Ducati.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Purchase_Kawasaki.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Payment.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.BSI.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.BCA.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.BNI.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.bri.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.DBS.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.MANDIRI.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Dana.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Gopay.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT_UTS_SATRIA_ARDAN.Ovo.resources
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\bin\Debug\Interop.WMPLib.dll
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\wiwim\OneDrive\Documents\Visual Studio 2010\Projects\PROJECT UTS SATRIA ARDAN\PROJECT UTS SATRIA ARDAN\obj\x86\Debug\PROJECT UTS SATRIA ARDAN.vbproj.ResolveComReference.cache
